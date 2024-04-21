@@ -1,0 +1,20 @@
+repo_name: nanaknketsiah/the-book-of-secret-knowledge
+report_id: a917198c199cfb4fad7facc32d03d0fa
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-21T20:16:26+00:00'
+requested_by: trimstray
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nanaknketsiah/the-book-of-secret-knowledge
+  detection_source: Repo Metadata
